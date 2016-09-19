@@ -1,5 +1,5 @@
 # Python Program to convert temperature in celsius to fahrenheit  and vice versa
-# Input is provided by the user in degree celsius
+# User can Press "Y" to repeat the conversion proccess
 
 
 # calculate fahrenheit
